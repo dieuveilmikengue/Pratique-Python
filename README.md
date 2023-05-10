@@ -8,3 +8,5 @@ Choisir votre joueur et tourner le premier à arriver à 30 points gagne la part
 
 ## Conversion
 Programme qui permet de convertir la minute, l'heure, le jour ou la semaine en secondes
+
+## Pierre Papier Ciseau
