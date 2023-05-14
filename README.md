@@ -10,6 +10,14 @@ Un programme qui permet à l'utilisateur de choisir son joueur et tourner le dé
 Programme qui permet à l'utilisateur de choisir sa conversion et d'entrer une valeur et la machine va convertir la valeur en seconde
 
 ## Pierre Papier Ciseau
+Les 2 joueurs doivent placer leurs mains dans le dos
+Prononcez Shi Fu Mi (se prononce Chi Fou Mi) ou comptez jusqu’à 3
+Dévoilez votre choix en réalisant le signe avec votre main
+Une fois que les deux joueurs ont dévoilés leurs signes voici comment est déterminé le gagnant.
+
+La pierre casse les ciseaux, la pierre gagne contre les ciseaux
+Les ciseaux coupent le papier, les ciseaux gagnent contre le papier
+Le papier recouvre la pierre, le papier gagne contre la pierre
 
 
 ## Nombre parfait
