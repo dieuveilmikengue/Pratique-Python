@@ -30,3 +30,9 @@ Un programme qui permet à l'ordinateur d'afficher les questions à choix multip
 
 ## Table de Multiplication
 Un programme qui permet à l'utilisateur d'entrer un nombre et à l'ordinateur de calculer la table de multiplication de ce nombre de 0 à 12
+
+## Ecrire avec les etoiles
+Un programme qui permet d'écrire une lettre, un mot ou une phrase avec les etoiles
+
+## Text to Speech
+Un programme qui permet de lire le texte a haute voix(audio)
