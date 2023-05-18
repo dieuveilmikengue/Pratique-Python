@@ -27,3 +27,6 @@ exemple: 6 est un nombre parfait si est seulement si la somme de ses diviseurs(1
 
 ## Questions à choix multiple
 Un programme qui permet de creer des questions à choix multiples
+
+## Table de Multiplication
+Un programme qui permet à l'utilisateur d'entrer un nombre et à l'ordinateur de calculer la table de multiplication de ce nombre de 0 à 12
