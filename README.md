@@ -36,3 +36,8 @@ Un programme qui permet d'écrire une lettre, un mot ou une phrase avec les etoi
 
 ## Text to Speech
 Un programme qui permet de lire le texte a haute voix(audio)
+
+## Roi de carreau
+Un Jeu tiré de la série ALICE IN BORDERLANDS
+Un programme qui permet à l'utilisateur d'entrer une valeur de 0 à 100 et à l'ordinateur de calculer la moyenne des joueurs (5 pour l'exemple), calculer la valeur de la moyenne fois 0,8.
+et d'afficher le gagnant du jeu (celui qui fera rentrer une valeur proche de la moyenne multipliée par 0,8)
