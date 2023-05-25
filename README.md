@@ -44,3 +44,6 @@ et d'afficher le gagnant du jeu (celui qui fera rentrer une valeur proche de la 
 
 ## Physiques
 Un programme qui permet à l'utilisateur d'entrer les données et de calculer
+
+## Conjugaison
+Un programme qui permet à l'utilisateur d'entrer un verbe, de choisir le temps et à la machine de conjuguer le verbe au mode indicatif
